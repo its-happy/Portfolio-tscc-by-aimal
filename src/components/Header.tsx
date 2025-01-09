@@ -22,7 +22,7 @@ const Header = () => {
     <div className="bg-blue-800 text-white py-4 fixed top-0 left-0 right-0 z-50 shadow-md">
       {/* Mobile Menu Button */}
       <div className="sm:hidden flex justify-between items-center px-6">
-        <div className="text-2xl font-bold">Mahad Khan</div>
+        <div className="text-2xl font-bold">AImal Khan</div>
         <button
           onClick={() => setMenuOpen(!isMenuOpen)}
           className="text-white bg-red-600 px-4 py-2 rounded-lg text-lg font-medium hover:bg-red-700 transition duration-300"
