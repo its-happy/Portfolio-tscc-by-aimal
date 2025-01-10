@@ -43,7 +43,7 @@ const Projects = () => {
               <FaGithub className="inline-block mr-2" />
               GitHub
             </Link>
-            <Link href="https://github.com/its-happy/multipage-website-css-by-aimal.git" className="text-green-500 hover:text-orange-600 text-xl">
+            <Link href="https://multipage-website-css-by-aimal.vercel.app/" className="text-green-500 hover:text-orange-600 text-xl">
               <FaExternalLinkAlt className="inline-block mr-2" />
               Vercel
             </Link>
